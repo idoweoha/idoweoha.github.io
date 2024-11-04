@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idoweoha.github.io/OHR/sitemap_index.txt
+Sitemap: https://idoweoha.github.io/VwE/sitemap_index.txt
+Sitemap: https://idoweoha.github.io/csE/sitemap_index.txt
+Sitemap: https://idoweoha.github.io/sQL/sitemap_index.txt
